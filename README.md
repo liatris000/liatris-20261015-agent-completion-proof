@@ -58,6 +58,10 @@ OK
 - `demo.py` — 上記を通しで動かすエントリポイント
 - `tests/test_verifier.py` — 判定ロジックの単体テスト
 
+## 記事
+
+https://zenn.dev/liatris/articles/20261015-agent-completion-proof
+
 ## ライセンス
 
 MIT
